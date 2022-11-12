@@ -1,7 +1,6 @@
 {
   "name": "meme-project",
   "private": true,
-  "homepage": "https://phviana.github.io/meme-project/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
